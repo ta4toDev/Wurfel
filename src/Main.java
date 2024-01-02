@@ -31,12 +31,7 @@ public class Main{
         Worker.bisZumPaschUndDarueberHinaus();
         Worker.augenzaehlerBisHundert();
 
-        //helloworld Method
-        printHelloWorld();
 
     }
 
-    public static void printHelloWorld(){
-        System.out.println("Hello World");
-    }
 }
