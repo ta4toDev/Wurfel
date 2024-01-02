@@ -30,5 +30,13 @@ public class Main{
         Worker.paschKurz(w1.wurf(),w2.wurf());
         Worker.bisZumPaschUndDarueberHinaus();
         Worker.augenzaehlerBisHundert();
+
+        //helloworld Method
+        printHelloWorld();
+
+    }
+
+    public static void printHelloWorld(){
+        System.out.println("Hello World");
     }
 }
