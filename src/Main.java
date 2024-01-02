@@ -21,6 +21,7 @@ public class Main{
         w.howManyNonStatic();
         Worker.howMany();
 
+
         Wuerfel w1 = new Wuerfel();
         Wuerfel w2 = new Wuerfel();
         //comments
